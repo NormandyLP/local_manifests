@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="github" fetch="git://github.com/" />
+  <remote fetch="git://codeaurora.org/" name="caf" review="codeaurora.org"/>
+
+  <remove-project name="bootable/recovery" />
+
+  <project name="lukino563/normandy_lulz_kernel" path="kernel/nokia/normandy" remote="github" revision="master" />
+  <project name="NormandyLP/android_device_nokia_normandy" path="device/nokia/normandy" remote="github" revision="cm-12.1" />
+  <project name="NormandyLP/android_vendor_nokia_normandy" path="vendor/nokia/normandy"  remote="github" revision="master" />
+  <project name="NormandyLP/hardware_qcom_media" path="hardware/qcom/media-caf/msm7x27a"  remote="github" revision="master" />
+  <project name="omnirom/android_bootable_recovery" path="bootable/recovery" remote="github" revision="android-5.1"/>
+</manifest>
+
+
