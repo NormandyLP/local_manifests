@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="github" fetch="git://github.com/" />
-  <remote fetch="git://codeaurora.org/" name="caf" review="codeaurora.org"/>
 
   <remove-project name="bootable/recovery" />
 
