@@ -1,7 +1,7 @@
 android_local_normandy
 ======================
 
-Local Manifest for Cyanogenmod Lollipop 5.1.1 on Nokia X (normandy)
+Local Manifest for SlimRoms Lollipop 5.1.1 on Nokia X (normandy)
 
 Getting Started
 ---------------
