@@ -6,7 +6,7 @@
 <!-- Normandy Kernel -->
   <project name="lukino563/normandy_lulz_kernel" path="kernel/nokia/normandy" remote="github" revision="master" />
 <!-- Normandy Device -->
-  <project name="NormandyLP/android_device_nokia_normandy" path="device/nokia/normandy" remote="github" revision="cm-12.1" />
+  <project name="NormandyLP/android_device_nokia_normandy" path="device/nokia/normandy" remote="github" revision="slimLP" />
 <!-- Normandy Vendor -->
   <project name="NormandyLP/android_vendor_nokia_normandy" path="vendor/nokia/normandy"  remote="github" revision="master" />
 <!-- Twrp -->
