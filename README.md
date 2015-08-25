@@ -17,8 +17,6 @@ Make a build directory:
 
 To initialize your local repository using the CM12.1 manifest, use commands like these:
 
-    repo init -u git://github.com/CyanogenMod/android.git -b cm-12.1
-
     curl -L -o .repo/local_manifests/normandylp.xml -O -L https://raw.github.com/NormandyLP/local_manifests/master/normandylp.xml
  
     	( or Download: https://github.com/NormandyLP/local_manifests/blob/master/normandylp.xml
