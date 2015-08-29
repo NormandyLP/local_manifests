@@ -15,4 +15,7 @@
   <project name="NormandyLP/android_hardware_atheros_wlan" path="hardware/atheros/wlan" remote="github" revision="lp5.0"/>
   <project name="NormandyLP/android_hardware_atheros_wifi_ath6kl-huawei" path="hardware/atheros/wifi" remote="github" revision="master"/>
   <project name="NormandyLP/android_hardware_qcom_media-caf_msm7x27a" path="hardware/qcom/media-caf/msm7x27a" remote="github" revision="cm-12.1"/>
+  <!-- Extra Vendor  -->
+  <project name="NormandyLP/vendor_extra" path="vendor/extra" remote="github" revision="Lollipop5.1"/>
+
 </manifest>
