@@ -6,6 +6,7 @@
   <project name="NormandyLP/android_device_nokia_normandy" path="device/nokia/normandy" remote="github" revision="cm-12.1-ctxz" />
 <!-- Normandy Vendor -->
   <project name="NormandyLP/android_vendor_nokia_normandy" path="vendor/nokia/normandy"  remote="github" revision="master" />
+  <project name="NormandyLP/vendor_extra" path="vendor/extra"  remote="github" revision="Lollipop5.1" />
 <!-- Hardwares -->
   <project name="NormandyLP/android_hardware_atheros_wlan" path="hardware/atheros/wlan" remote="github" revision="lp5.0"/>
   <project name="NormandyLP/android_hardware_atheros_wifi_ath6kl-huawei" path="hardware/atheros/wifi" remote="github" revision="master"/>
