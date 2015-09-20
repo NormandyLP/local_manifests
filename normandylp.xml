@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="github" fetch="git://github.com/" />
-
-  <remove-project name="bootable/recovery" />
 <!-- Normandy Kernel -->
   <project name="lukino563/normandy_lulz_kernel" path="kernel/nokia/normandy" remote="github" revision="master" />
 <!-- Normandy Device -->
-  <project name="NormandyLP/android_device_nokia_normandy" path="device/nokia/normandy" remote="github" revision="slimLP" />
+  <project name="NormandyLP/android_device_nokia_normandy" path="device/nokia/normandy" remote="github" revision="cm-12.1-ctxz" />
 <!-- Normandy Vendor -->
   <project name="NormandyLP/android_vendor_nokia_normandy" path="vendor/nokia/normandy"  remote="github" revision="master" />
-<!-- Twrp -->
-  <project name="omnirom/android_bootable_recovery" path="bootable/recovery" remote="github" revision="android-5.1"/>
 <!-- Hardwares -->
   <project name="NormandyLP/android_hardware_atheros_wlan" path="hardware/atheros/wlan" remote="github" revision="lp5.0"/>
   <project name="NormandyLP/android_hardware_atheros_wifi_ath6kl-huawei" path="hardware/atheros/wifi" remote="github" revision="master"/>
